@@ -2,18 +2,18 @@
 
 Convolutional network implementation example using TensorFlow library on cifar-10 dataset 
 
-#### Dependencies
+### Dependencies
 * Python (3.6)
 * Tensorflow (1.8)
 * numpy 
 * opencv
 
 
-#### Usage
+### Usage
 use jupyter notebook to open Main.ipynb or CNN_AlexNet_cifar10 and run.
 
 
-#### Comparaison 
+### Comparaison 
 
 | Architecture        | Test error rate |
 | :---------------:   | :--------------:|
